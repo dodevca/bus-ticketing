@@ -36,9 +36,9 @@ This project is a console application. You can run it locally by following the s
     ```
 
 ## Future Improvements
-- Implement seat availability checking.
-- Add data persistence using file storage or a simple database.
-- Develop a basic UI version using WinForms or WPF.
+- [ ] Implement seat availability checking.
+- [ ] Add data persistence using file storage or a simple database.
+- [ ] Develop a basic UI version using WinForms or WPF.
 
 ## Contact & Collaboration
 Interested in discussing this project or collaborating?
