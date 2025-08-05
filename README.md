@@ -1,4 +1,4 @@
-# Bus Ticketing System (TiketBis) — by Dodevca
+# Bus Ticketing System (TiketBis) - by Dodevca
 
 ## About This Project
 A simple bus ticket ordering and management system built with C# and .NET 6.0. This project was developed as a practice to strengthen Object-Oriented Programming (OOP) fundamentals in C#, focusing on data management, class structures, and console-based interaction.
